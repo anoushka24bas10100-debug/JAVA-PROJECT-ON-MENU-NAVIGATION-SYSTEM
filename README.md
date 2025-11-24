@@ -1,8 +1,4 @@
 # JAVA-PROJECT-ON-MENU-NAVIGATION-SYSTEM
-Here is a more formal, slightly exaggerated version with **no emojis, no bold text**:
-
----
-
 A Comprehensive Java Application Demonstrating Recursion, Inheritance, and Hierarchical Navigation
 
 This project represents a structurally robust Java application designed to illustrate key Object-Oriented Programming concepts through an interactive, multi-level menu navigation system. Rather than presenting a simple console program, the system is organized around a flexible, scalable architecture that mirrors patterns used in professional software design.
@@ -36,8 +32,4 @@ MenuNavigationSystem/
   └── Main.java Entry point
 └── README.md
 
-Summary
 
-Overall, this project serves as a compact demonstration of how advanced OOP principles can be combined to manage complex hierarchical data structures in Java. It is intentionally designed to resemble real-world architectural practices, showcasing clarity of design, effective abstraction, and clean recursive problem solving.
-
-If you want, I can adjust the tone further (more academic, more technical, more concise, more promotional).
